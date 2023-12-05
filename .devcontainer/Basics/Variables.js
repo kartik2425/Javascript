@@ -3,5 +3,3 @@ let username="Rameshwar"
 var password="kalyan ram"
 var user
 console.table([num,username,password,user])
-
-
